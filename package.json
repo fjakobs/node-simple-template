@@ -1,0 +1,21 @@
+{
+    "name": "simple-template",
+    "description": "Super simple text template function",
+    "version": "0.0.1",
+    
+    "author": "ajax.org B.V. <info@ajax.org>",
+    "contributors": [
+        { "name": "Fabian Jakobs", "email": "fabian@c9.io" }
+    ],
+    
+    "main": "template.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/c9/node-simple-template.git"
+    },   
+    
+    "licenses" : [{
+        "type" : "MIT",
+        "url" : "http://github.com/c9/node-simple-template/raw/master/LICENSE"
+    }]
+}
